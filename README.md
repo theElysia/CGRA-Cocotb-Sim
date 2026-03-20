@@ -2,6 +2,12 @@
 
 #### author:zevick
 
+## 链接
+
+[https://github.com/orgs/FDU-ME-ARC/repositories](https://github.com/orgs/FDU-ME-ARC/repositories)
+[https://github.com/cocotb/cocotb](https://github.com/cocotb/cocotb)
+
+
 ## 环境安装
 ```bash
 conda create -n cocotb python=3.12
